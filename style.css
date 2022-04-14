@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.heading{
+    width: 60%;
+    font-size: 30px;
+}
+.heading1{
+    width: 60%;
+}
+p{
+    color: aliceblue;
+}
+label{
+    color: aliceblue;
+}
